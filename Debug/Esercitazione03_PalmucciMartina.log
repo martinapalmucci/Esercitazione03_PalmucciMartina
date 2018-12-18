@@ -1,0 +1,17 @@
+﻿  matemathical_functions.cpp
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\matemathical_functions.cpp(7): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\matemathical_functions.cpp(12): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\matemathical_functions.cpp(17): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\matemathical_functions.cpp(27): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\matemathical_functions.cpp(37): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+  my_functions.cpp
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\my_functions.cpp(90): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\my_functions.cpp(91): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\my_functions.cpp(128): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\my_functions.cpp(128): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\my_functions.cpp(211): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\my_functions.cpp(220): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\my_functions.cpp(276): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\utente\source\repos\esercitazione03_palmuccimartina\esercitazione03_palmuccimartina\my_functions.cpp(283): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  Esercitazione03_PalmucciMartina.vcxproj -> C:\Users\Utente\source\repos\Esercitazione03_PalmucciMartina\Debug\Esercitazione03_PalmucciMartina.exe
